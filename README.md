@@ -169,7 +169,6 @@ We welcome contributions! 💡 If you have ideas for improvement, feel free to:
 ✅ Fork the repo  
 ✅ Create a new branch  
 ✅ Submit a pull request  
-
 ---
 
 ## 📜 **License**  
